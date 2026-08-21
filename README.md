@@ -2,7 +2,7 @@
 
 **Una copia de tu DNI no debería convertirse en una copia reutilizable para cualquier finalidad.**
 
-ProtegerDNI es una herramienta gratuita para Windows creada para que cualquier persona
+ProtegerDNI es una herramienta gratuita y portable para Windows creada para que cualquier persona
 pueda preparar una copia de su documento de identidad antes de enviarla: recortar la
 imagen, ocultar manualmente datos innecesarios e individualizar la copia mediante una
 marca de agua con destinatario y fecha.
@@ -16,8 +16,8 @@ marca de agua con destinatario y fecha.
 
 El proyecto está preparado para distribuir dos ejecutables portables:
 
-- **ProtegerDNI_x64.exe** — Windows 10 y Windows 11 de 64 bits.
-- **ProtegerDNI_x86.exe** — Windows 10 y Windows 11 de 32 bits.
+- **ProtegerDNI_x64.exe** — PORTABLE - Windows 10 y Windows 11 de 64 bits.
+- **ProtegerDNI_x86.exe** — PORTABLE - Windows 10 y Windows 11 de 32 bits.
 
 Los ejecutables no necesitan una instalación tradicional. Antes de publicarlos se
 recomienda acompañarlos con su **SHA-256** para permitir la comprobación de integridad.
