@@ -1,0 +1,24 @@
+name: Proponer una mejora
+description: Sugerir una función o mejora para ProtegerDNI
+title: "[MEJORA] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Las propuestas son bienvenidas.
+
+        **No publiques DNI reales ni información personal.**
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Propuesta
+      description: Explicá qué te gustaría mejorar o incorporar.
+    validations:
+      required: true
+  - type: textarea
+    id: benefit
+    attributes:
+      label: ¿Qué problema resolvería?
+    validations:
+      required: true
