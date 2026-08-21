@@ -1,0 +1,56 @@
+PROTEGERDNI — LICENCIA DE USO LIBRE NO COMERCIAL
+Versión 1.0
+
+Copyright (c) 2026 Eduardo Ernesto Lecce — EEL CIBERSEGURIDAD
+
+Se concede gratuitamente a cualquier persona permiso para usar, copiar, estudiar,
+auditar y modificar este software y su código fuente con fines personales,
+educativos, académicos, de investigación, comunitarios o profesionales no comerciales,
+sujeto a las condiciones siguientes:
+
+1. USO GRATUITO
+El software puede utilizarse sin costo para proteger copias de documentos de identidad.
+
+2. MODIFICACIÓN Y REDISTRIBUCIÓN
+Se permite modificar y redistribuir el código fuente y los binarios, siempre que:
+a) se conserve este aviso de licencia y la atribución original;
+b) se identifiquen claramente las versiones modificadas;
+c) la redistribución sea gratuita y no comercial;
+d) no se sugiera que una versión modificada está aprobada por el autor original.
+
+3. PROHIBICIÓN DE VENTA Y EXPLOTACIÓN COMERCIAL
+Queda prohibido vender, alquilar, sublicenciar por precio, cobrar por el acceso al
+software, incluirlo como producto pago, comercializar versiones modificadas o utilizar
+el software como componente de un producto o servicio cuya finalidad sea obtener
+ingresos directos por el software, sin autorización previa y escrita del titular.
+
+Esta prohibición no impide que una persona u organización utilice gratuitamente
+ProtegerDNI como herramienta auxiliar dentro de su actividad, siempre que no cobre
+por el software, su licencia, su acceso o su redistribución.
+
+4. ATRIBUCIÓN
+Las redistribuciones deberán conservar:
+
+ProtegerDNI
+Creado por Eduardo Ernesto Lecce
+EEL CIBERSEGURIDAD
+eelciberseguridad@gmail.com
+
+5. DATOS PERSONALES
+Quien utilice o redistribuya el software es responsable de cumplir la normativa
+aplicable en materia de privacidad, protección de datos y documentación personal.
+
+6. AUSENCIA DE GARANTÍA
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍAS EXPRESAS O IMPLÍCITAS.
+EN LA MEDIDA PERMITIDA POR LA LEY APLICABLE, EL AUTOR NO SERÁ RESPONSABLE POR
+DAÑOS DERIVADOS DEL USO, IMPOSIBILIDAD DE USO, MODIFICACIÓN O REDISTRIBUCIÓN
+DEL SOFTWARE.
+
+7. RESERVA DE DERECHOS
+Todo derecho no concedido expresamente por esta licencia queda reservado al titular.
+
+NOTA SOBRE LA DENOMINACIÓN
+Esta licencia permite acceso, estudio y modificación del código, pero contiene una
+restricción de uso comercial. Por ello el proyecto se describe jurídicamente como
+"código fuente disponible / uso libre no comercial" y no afirma utilizar una licencia
+Open Source aprobada por la Open Source Initiative (OSI).

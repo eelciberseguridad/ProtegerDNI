@@ -1,0 +1,48 @@
+name: Reportar un error
+description: Informar un problema de funcionamiento de ProtegerDNI
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por ayudar a mejorar ProtegerDNI.
+
+        **No adjuntes fotografías de DNI reales, números de documento ni ningún otro dato personal.**
+  - type: dropdown
+    id: windows
+    attributes:
+      label: Versión de Windows
+      options:
+        - Windows 11
+        - Windows 10
+        - Otra
+    validations:
+      required: true
+  - type: dropdown
+    id: architecture
+    attributes:
+      label: Arquitectura
+      options:
+        - 64 bits (x64)
+        - 32 bits (x86)
+        - No lo sé
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: ¿Qué ocurrió?
+      description: Explicá el problema sin incluir datos personales.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Pasos para reproducirlo
+      placeholder: |
+        1. Abrí...
+        2. Seleccioné...
+        3. Presioné...
+    validations:
+      required: true
